@@ -1,0 +1,6 @@
+Version: 1.0.0
+Release date: 2025-11-02
+Status: Beta
+Changelog:
+- Initial release of Termux Package Store
+- Added 3 package categories (Development, Networking, Multimedia)

@@ -1,0 +1,38 @@
+{
+    "Development": [
+        "python",
+        "openjdk-17",
+        "clang",
+        "git",
+        "nodejs",
+        "make"
+    ],
+    "Networking": [
+        "nmap",
+        "wget",
+        "curl",
+        "hydra",
+        "net-tools",
+        "tcpdump"
+    ],
+    "Multimedia": [
+        "ffmpeg",
+        "sox",
+        "imagemagick",
+        "mpv"
+    ],
+    "Utilities": [
+        "nano",
+        "htop",
+        "neofetch",
+        "zip",
+        "unzip"
+    ],
+    "Security": [
+        "openssl",
+        "john",
+        "hashcat",
+        "hydra",
+        "whois"
+    ]
+}
